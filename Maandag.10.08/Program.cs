@@ -11,6 +11,9 @@ namespace Maandag._10._08
         static void Main(string[] args)
         {
             // mijn github
+            Console.WriteLine("Hello World");
+            Console.WriteLine("Nog iets toevoegen en proberen")
+            Console.ReadLine();
         }
     }
 }
